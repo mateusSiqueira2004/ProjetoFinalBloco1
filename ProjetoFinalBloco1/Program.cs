@@ -20,7 +20,8 @@
                     "\n      3- Atualizar Produtos" +
                     "\n      4- Buscar Produto por id" +
                     "\n      5- Buscar Produto por nome" +
-                    "\n      6- Sair"
+                    "\n      6- Sair" +
+                    "\n\n######################################################\n"
                     );
                 try
                 {
@@ -44,8 +45,9 @@
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine(
                                 "\n=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+++=+=+=+=+=+=+=+=+=+=+=" +
-                                "\nBanco Suspeito - Para Sempre no Console de sua casa\n" +
+                                "\nLojinha - Só tem esse nome pois me falta Criatividade\n" +
                                 "Cuidado com seu CMD\n");
+                            KeyPress();
                             Sobre();
                             System.Environment.Exit(0);
                             break;
