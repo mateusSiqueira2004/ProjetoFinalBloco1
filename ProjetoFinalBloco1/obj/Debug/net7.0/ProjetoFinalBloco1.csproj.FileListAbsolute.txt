@@ -1,0 +1,14 @@
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\bin\Debug\net7.0\ProjetoFinalBloco1.exe
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\bin\Debug\net7.0\ProjetoFinalBloco1.deps.json
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\bin\Debug\net7.0\ProjetoFinalBloco1.runtimeconfig.json
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\bin\Debug\net7.0\ProjetoFinalBloco1.dll
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\bin\Debug\net7.0\ProjetoFinalBloco1.pdb
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.AssemblyInfoInputs.cache
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.AssemblyInfo.cs
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.csproj.CoreCompileInputs.cache
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.dll
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\refint\ProjetoFinalBloco1.dll
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.pdb
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ProjetoFinalBloco1.genruntimeconfig.cache
+D:\projetos\Generation\ProjetoFinalBloco1\ProjetoFinalBloco1\obj\Debug\net7.0\ref\ProjetoFinalBloco1.dll
