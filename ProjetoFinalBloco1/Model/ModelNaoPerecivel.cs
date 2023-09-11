@@ -13,7 +13,7 @@ namespace ProjetoFinalBloco1.Model
         {
             this.estado = estado;
         }
-        public string Estado { get { return estado; } set { this.estado = value; } }
+        public string Estado { get { return estado; } set => this.estado = value; }
 
         public override void Visualizar()
         {

@@ -13,7 +13,11 @@ namespace ProjetoFinalBloco1.Model
         {
             this.validade = validade;
         }
-        public string Validade { get { return validade; } set { this.validade = value; } }
+        public string Validade 
+        {
+            get { return validade; } 
+            set => this.validade = value;  
+        }
 
         public override void Visualizar()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoFinalBloco1.Model
 {
-    public class ModelProduto
+    public abstract class ModelProduto
     {
         private string nome;
         private int id, tipo;
@@ -20,10 +20,10 @@ namespace ProjetoFinalBloco1.Model
             this.preco = preco;
         }
 
-        public string Nome { get { return nome; } set { this.nome = value; } }
-        public int Id { get { return id; } set { this.id = value; } }
-        public decimal Preco { get { return preco; } set { this.preco = value; } }
-        public int Tipo { get { return tipo; } set { tipo = value; } }
+        public string Nome { get { return nome; } set => this.nome = value;  }
+        public int Id { get { return id; } set => this.id = value;  }
+        public decimal Preco { get { return preco; } set => this.preco = value; }
+        public int Tipo { get { return tipo; } set => tipo = value;  }
 
         public virtual void Visualizar() 
         {
