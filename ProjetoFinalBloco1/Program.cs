@@ -1,4 +1,6 @@
-﻿namespace ProjetoFinalBloco1
+﻿using ProjetoFinalBloco1.Model;
+
+namespace ProjetoFinalBloco1
 {
     internal class Program
     {
@@ -6,6 +8,8 @@
         static void Main(string[] args)
         {
             int confirm;
+
+            ModelPerecivel mp = new("bolacha", 1, 1, 10000, "13/05/2026");
             while (true)
             {
                 confirm = 0;
@@ -32,8 +36,10 @@
                     switch( confirm )
                     {
                         case 1:
+
                             break;
                         case 2:
+                            mp.Visualizar();
                             break;
                         case 3:
                             break;
