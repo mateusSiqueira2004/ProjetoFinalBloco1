@@ -12,6 +12,7 @@ namespace ProjetoFinalBloco1.Repository
         public void CriarProduto(ModelProduto produto);
         public void ListarTodos();
         public void Procurar(int id);
+        public void ProcurarPorNome(string nome);
         public void Deletar(int id);
         public void Atualizar(ModelProduto produto);
     }

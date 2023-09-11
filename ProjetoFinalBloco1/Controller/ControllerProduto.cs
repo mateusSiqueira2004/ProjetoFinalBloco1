@@ -11,6 +11,7 @@ namespace ProjetoFinalBloco1.Controller
     public class ControllerProduto : IProdutoRepository
     {
         int id = 0;
+        string nome = null;
         private readonly List<ModelProduto> listaProdutos = new();
 
         public void Atualizar(ModelProduto produto)
@@ -109,6 +110,12 @@ namespace ProjetoFinalBloco1.Controller
                 }
             }
             return 0;
+        }
+
+        public void ProcurarPorNome(string nome)
+        {
+            var listarNome = from produto in listaProdutos where produto.Nome.Contains(nome) select produto;
+            listarNome.ToList().ForEach(p => p.Visualizar());
         }
     }
 }

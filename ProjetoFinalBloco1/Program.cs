@@ -126,8 +126,19 @@ namespace ProjetoFinalBloco1
                             }
                             break;
                         case 4:
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.WriteLine("Digite o id do produto:");
+                            id = Convert.ToInt32(Console.ReadLine());
+                            ctrl.Procurar(id);
+                            KeyPress();
                             break;
                         case 5:
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Digite o Nome do produto: ");
+                            nome = Console.ReadLine();
+
+                            ctrl.ProcurarPorNome(nome);
+                            KeyPress();
                             break;
                         case 6:
                             Console.ForegroundColor = ConsoleColor.Red;
