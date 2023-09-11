@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\Generation\\ProjetoFinalBloco1\\ProjetoFinalBloco1\\ProjetoFinalBloco1.csproj",
+      "projectUniqueName": "C:\\Users\\mateu\\Source\\Repos\\ProjetoFinalBloco1\\ProjetoFinalBloco1.csproj",
       "projectName": "ProjetoFinalBloco1",
-      "projectPath": "D:\\projetos\\Generation\\ProjetoFinalBloco1\\ProjetoFinalBloco1\\ProjetoFinalBloco1.csproj",
+      "projectPath": "C:\\Users\\mateu\\Source\\Repos\\ProjetoFinalBloco1\\ProjetoFinalBloco1.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\Generation\\ProjetoFinalBloco1\\ProjetoFinalBloco1\\obj\\",
+      "outputPath": "C:\\Users\\mateu\\Source\\Repos\\ProjetoFinalBloco1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
